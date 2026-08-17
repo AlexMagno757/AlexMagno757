@@ -4,7 +4,7 @@ I am a Computer Science undergraduate student at Universidade Federal de Uberlâ
 
 Alongside my studies, I act as a teaching assistant for the Logic for Computing course and serve as a peer mentor in the PET program.
 
-🔧 Skills
+## **🔧 Skills
 *   **Languages:** C, C++, Java, SQL, Prolog, Haskell, Assembly, Python, HTML.
 *   **Core Interests:** Operating Systems, Distributed Databases, Data Structures, and Deep Reinforcement Learning.
 
