@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Alexandre👋
+
+I am a Computer Science undergraduate student at Universidade Federal de Uberlândia (UFU), currently in my 7th period. My primary focus is on Backend development, Systems Engineering, and Low-Level Programming. 
+
+Alongside my studies, I act as a teaching assistant for the Logic for Computing course and serve as a peer mentor in the PET program.
+
+🔧 Skills
+*   **Languages:** C, C++, Java, SQL, Prolog, Haskell, Assembly, Python, HTML.
+*   **Core Interests:** Operating Systems, Distributed Databases, Data Structures, and Deep Reinforcement Learning.
+
+📫 alexandrejr757@gmail.com
 
 <!--
 **AlexMagno757/AlexMagno757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
