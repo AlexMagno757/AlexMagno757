@@ -1,8 +1,8 @@
 ## Hi, I'm Alexandre👋
 
-I am a Computer Science undergraduate student at Universidade Federal de Uberlândia (UFU). My foundation is built on Backend development, Systems Engineering, Low-Level Programming, and my current focus is rapidly expanding into Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
+🎓 I am a Computer Science undergraduate student at Universidade Federal de Uberlândia (UFU). My foundation is built on Backend development, Systems Engineering, Low-Level Programming, and my current focus is rapidly expanding into Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
 
-I enjoy bridging the gap between low-level performance and intelligent systems—whether that means studying Operating Systems and Distributed Databases, or exploring Deep Reinforcement Learning and modern AI applications. Alongside my studies, I act as a teaching assistant for the Logic for Computing course and serve as a peer mentor in the PET program.
+💡I enjoy bridging the gap between low-level performance and intelligent systems—whether that means studying Operating Systems and Distributed Databases, or exploring Deep Reinforcement Learning and modern AI applications. Alongside my studies, I act as a teaching assistant for the Logic for Computing course and serve as a peer mentor in the PET program.
 
 ## 🔧 Skills
 *   **Languages:** C, C++, Java, SQL, Prolog, Haskell, Assembly, Python, HTML.
